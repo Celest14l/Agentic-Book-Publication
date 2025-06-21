@@ -1,0 +1,24 @@
+# Web scraping
+playwright==1.43.0
+
+# AI APIs
+openai==1.30.1  # Only if needed (you used Groq instead)
+groq==0.4.2
+huggingface-hub==0.23.2
+requests>=2.25.1
+
+# PDF generation
+fpdf==1.7.2
+
+# Vector DB & embeddings
+chromadb==0.4.24
+sentence-transformers==2.6.1
+
+# Utility
+tqdm==4.66.4
+
+# Optional: If you want colored CLI outputs, logs, or better UX
+rich==13.7.1
+
+# To avoid symlink cache warnings on Windows (optional but useful)
+huggingface-hub[cli]
