@@ -10,7 +10,7 @@ This tool scrapes book chapters from web sources, rewrites and reviews them usin
 
 ## 🚀 Demo
 
-🎬 **Watch the demo** → [Insert Demo Video Link Here]
+🎬 **Watch the demo** → 
 
 ---
 
