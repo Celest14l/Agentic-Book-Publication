@@ -6,7 +6,7 @@ from groq import Groq
 from dotenv import load_dotenv
 
 # === Load environment variables ===
-load_dotenv("pass.env")  # Ensure pass.env contains GROQ_API_KEY
+load_dotenv("pass.env")  
 
 # === Set up the Groq client ===
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
